@@ -1,0 +1,3 @@
+/Users/sava/Desktop/учеба/2 курс/алгосы/0.2-one-1/cmake-build-debug/CMakeFiles/0_2_one_1.dir
+/Users/sava/Desktop/учеба/2 курс/алгосы/0.2-one-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sava/Desktop/учеба/2 курс/алгосы/0.2-one-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
